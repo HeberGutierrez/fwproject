@@ -1,6 +1,25 @@
-/* Formating tag HEADERS*/
-h1{font-style: italic;}
-h2{font-family: fantasy;}
-h3{font-style: oblique;}
-h5{font-style: normal;}
-pre.first-text-block{text-decoration: overline;}
+/*INDEX FORMAT*/
+
+h2.index-tittle {
+  text-align: center;
+  color: #d8d5d0;
+  font-style: italic;
+  font-size: 30px;
+}
+
+h3.index-h3 {
+  text-align: center;
+  color: #e8b466;
+}
+
+h1 {
+  color: #dddcd2;
+  text-align: center;
+  text-shadow: #e0e0e0 1px 1px 0;
+}
+
+h2 {
+  color: #bdfc3f;
+  font-style: italic;
+  text-align: center;
+}
